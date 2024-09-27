@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div id="start-screen">
+            <h1>Welcome to the Quiz!</h1>
+            <input type="text" id="quiz-title" placeholder="Enter quiz title">
+            <input type="file" id="quiz-file" accept=".json">
+            <button id="start-button" disabled>Start Quiz</button>
+        </div>
+        <div id="quiz-screen" style="display: none;">
+            <h1 id="quiz-title-display"></h1>
+            <div class="timer-bar"></div>
+            <div class="question"></div>
+            <div class="options"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
