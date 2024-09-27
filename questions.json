@@ -1,58 +1,62 @@
 [
   {
-    "question": "What is the capital of France?",
-    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "question": "Which famous painting is this a parody of?",
+    "options": ["Starry Night", "The Scream", "Girl with a Pearl Earring", "The Persistence of Memory"],
     "correctAnswer": 2,
-    "image": "images/images/test1.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/800px-Meisje_met_de_parel.jpg"
   },
   {
-    "question": "How many legs does a cat have?",
-    "options": ["2", "4", "6", "8"],
+    "question": "What type of animal is this?",
+    "options": ["Lion", "Tiger", "Leopard", "Cheetah"],
     "correctAnswer": 1,
-    "image": "https://github.com/sprinter-cpu/test_site/commit/b4674c805fa230d2147efd897390ed4389bbf331#diff-80023cc464ae38bd2fea92d40689c8dca85e15147261c83698a8c3ebfcd42d56"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/800px-Walking_tiger_female.jpg"
   },
   {
-    "question": "Which animal says 'moo'?",
-    "options": ["Dog", "Cat", "Cow", "Duck"],
+    "question": "Which famous landmark is this?",
+    "options": ["Eiffel Tower", "Statue of Liberty", "Big Ben", "Sydney Opera House"],
+    "correctAnswer": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/800px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+  },
+  {
+    "question": "What planet is shown in this image?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
     "correctAnswer": 2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/640px-Gold-crystals.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/800px-Saturn_during_Equinox.jpg"
   },
   {
-    "question": "What shape is a ball?",
-    "options": ["Square", "Triangle", "Circle", "Rectangle"],
-    "correctAnswer": 2,
-    "image": "images/test4.jpg"
+    "question": "Which sport does this equipment belong to?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "correctAnswer": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Badmintonracket.jpg/800px-Badmintonracket.jpg"
   },
   {
-    "question": "Which fruit is red and grows on a vine?",
-    "options": ["Apple", "Banana", "Orange", "Tomato"],
+    "question": "What type of food is shown in the image?",
+    "options": ["Pizza", "Burger", "Taco", "Sushi"],
     "correctAnswer": 3,
-    "image": "images/test5.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/800px-Sushi_platter.jpg"
   },
   {
-    "question": "How many colors are in a rainbow?",
-    "options": ["5", "6", "7", "8"],
+    "question": "Which musical instrument is this?",
+    "options": ["Guitar", "Violin", "Cello", "Double Bass"],
+    "correctAnswer": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Violin_VL100.jpg/800px-Violin_VL100.jpg"
+  },
+  {
+    "question": "What type of car is shown in the image?",
+    "options": ["Sports Car", "SUV", "Sedan", "Hatchback"],
+    "correctAnswer": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Porsche_991_GT3_RS_at_the_2015_Geneva_Motor_Show_%2816810734426%29.jpg/800px-Porsche_991_GT3_RS_at_the_2015_Geneva_Motor_Show_%2816810734426%29.jpg"
+  },
+  {
+    "question": "Which famous scientist is depicted in this image?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Nikola Tesla"],
+    "correctAnswer": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/800px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+  },
+  {
+    "question": "What type of flower is shown in the picture?",
+    "options": ["Rose", "Tulip", "Sunflower", "Daisy"],
     "correctAnswer": 2,
-    "image": "images/test6.jpg"
-  },
-  {
-    "question": "What do you use to write on paper?",
-    "options": ["Fork", "Spoon", "Pencil", "Plate"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Which season comes after summer?",
-    "options": ["Winter", "Spring", "Fall", "Summer"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What do fish use to breathe?",
-    "options": ["Lungs", "Gills", "Nose", "Mouth"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "How many sides does a triangle have?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswer": 1
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/800px-Sunflower_sky_backdrop.jpg"
   }
 ]
