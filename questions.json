@@ -3,19 +3,19 @@
     "question": "What is the capital of France?",
     "options": ["London", "Berlin", "Paris", "Madrid"],
     "correctAnswer": 2,
-    "image": "images/test1.jpg"
+    "image": "images/images/test1.jpg"
   },
   {
     "question": "How many legs does a cat have?",
     "options": ["2", "4", "6", "8"],
     "correctAnswer": 1,
-    "image": "images/test2.jpg"
+    "image": "https://github.com/sprinter-cpu/test_site/commit/b4674c805fa230d2147efd897390ed4389bbf331#diff-80023cc464ae38bd2fea92d40689c8dca85e15147261c83698a8c3ebfcd42d56"
   },
   {
     "question": "Which animal says 'moo'?",
     "options": ["Dog", "Cat", "Cow", "Duck"],
     "correctAnswer": 2,
-    "image": "images/test3.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/640px-Gold-crystals.jpg"
   },
   {
     "question": "What shape is a ball?",
