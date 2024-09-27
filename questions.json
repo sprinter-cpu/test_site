@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswer": 2,
+    "image": "images/test1.jpg"
+  },
+  {
+    "question": "How many legs does a cat have?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": 1,
+    "image": "images/test2.jpg"
+  },
+  {
+    "question": "Which animal says 'moo'?",
+    "options": ["Dog", "Cat", "Cow", "Duck"],
+    "correctAnswer": 2,
+    "image": "images/test3.jpg"
+  },
+  {
+    "question": "What shape is a ball?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correctAnswer": 2,
+    "image": "images/test4.jpg"
+  },
+  {
+    "question": "Which fruit is red and grows on a vine?",
+    "options": ["Apple", "Banana", "Orange", "Tomato"],
+    "correctAnswer": 3,
+    "image": "images/test5.jpg"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "image": "images/test6.jpg"
+  },
+  {
+    "question": "What do you use to write on paper?",
+    "options": ["Fork", "Spoon", "Pencil", "Plate"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which season comes after summer?",
+    "options": ["Winter", "Spring", "Fall", "Summer"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What do fish use to breathe?",
+    "options": ["Lungs", "Gills", "Nose", "Mouth"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": 1
+  }
+]
